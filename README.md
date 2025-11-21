@@ -163,7 +163,7 @@ High availability ensures the Salary API remains operational with minimal downti
 ## Contact Information
 | Name              | Email Address                                    |
 |-------------------|--------------------------------------------------|
-| Dhani             | abhishek.bisht.snaatak@mygurukulam.co            |
+| Abhishek           | abhishek.bisht.snaatak@mygurukulam.co            |
 
 ---
 
