@@ -149,6 +149,8 @@ High availability ensures the Salary API remains operational with minimal downti
 | Monitoring               | Prometheus-alerting + OpenTelemetry dashboards.        |
 | Zero Downtime Deployment | Prefer rolling deployments/blue-green releases.        |
 
+---
+
 ## Troubleshooting
 
 | **Issue**                   | **Cause**                             | **Solution**                                     |
