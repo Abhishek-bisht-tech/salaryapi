@@ -1,6 +1,6 @@
 # Salary API Documentation
 
-<img width="296" height="283" alt="Screenshot from 2025-11-21 13-31-07" src="https://github.com/user-attachments/assets/82ce868c-1f43-4c02-b1b2-959314816a7d" />
+<img width="200" height="200" alt="Screenshot from 2025-11-21 13-31-07" src="https://github.com/user-attachments/assets/82ce868c-1f43-4c02-b1b2-959314816a7d" />
 
 
 ## Author Table
