@@ -1,8 +1,7 @@
 # Salary API Documentation
 
-<p align="center">
-<img width="383" height="256" alt="image" src="https://github.com/user-attachments/assets/828a664c-56f9-4c03-b9ae-3331a3e09e30" />
-</p>
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/828a664c-56f9-4c03-b9ae-3331a3e09e30" />
+</p>](https://github.com/OT-MICROSERVICES/salary-api/raw/main/static/salary-api-logo.svg)
 
 ## Author Table
 
@@ -99,9 +98,9 @@ The Salary API requires these services before running the application:
 
 ## Architecture
 
-<p align="center">
+[<p align="center">
 <img width="1010" height="491" alt="image" src="https://github.com/user-attachments/assets/66391fb5-52e3-4f78-b10e-9b75f044e313" />
-</p>
+</p>](https://github.com/OT-MICROSERVICES/salary-api/raw/main/static/salary.png)
 
 ---
 
@@ -173,7 +172,7 @@ High availability ensures the Salary API remains operational with minimal downti
 
 | Topic                  | Link                                                                             |
 | ---------------------- | -------------------------------------------------------------------------------- |
-| Salary API Source      | *(Internal repository link as applicable)*                                       |
+| Salary API Source      | ([Internal repository link as applicable](https://github.com/OT-MICROSERVICES/salary-api))     |
 | ScyllaDB Documentation | [https://www.scylladb.com/docs/](https://www.scylladb.com/docs/)                 |
 | Redis Documentation    | [https://redis.io/docs/](https://redis.io/docs/)                                 |
 | Spring Boot Docs       | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot) |
