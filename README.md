@@ -1,7 +1,7 @@
 # Salary API Documentation
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/828a664c-56f9-4c03-b9ae-3331a3e09e30" />
-</p>](https://github.com/OT-MICROSERVICES/salary-api/raw/main/static/salary-api-logo.svg)
+<img width="296" height="283" alt="Screenshot from 2025-11-21 13-31-07" src="https://github.com/user-attachments/assets/82ce868c-1f43-4c02-b1b2-959314816a7d" />
+
 
 ## Author Table
 
@@ -33,7 +33,7 @@
 ---
 
 ## Introduction
-Salary API is a Java-based microservice responsible for managing salary-related transactions and records inside the OT-Microservices ecosystem. It is platform independent and requires Java Runtime to execute. The service supports ScyllaDB, Redis, Swagger, Prometheus, OpenTelemetry, and uses `migrate` for database migrations.
+Salary API is a Java-based microservice responsible for managing salary-related transactions and records inside the OT-Microservices ecosystem. It is platform independent and requires Java Runtime to execute. The service supports ScyllaDB, Redis, Swagger, Prometheus, OpenTelemetry, and uses migrate for database migrations.
 
 ---
 
@@ -98,9 +98,8 @@ The Salary API requires these services before running the application:
 
 ## Architecture
 
-[<p align="center">
-<img width="1010" height="491" alt="image" src="https://github.com/user-attachments/assets/66391fb5-52e3-4f78-b10e-9b75f044e313" />
-</p>](https://github.com/OT-MICROSERVICES/salary-api/raw/main/static/salary.png)
+<img width="1760" height="760" alt="salary1" src="https://github.com/user-attachments/assets/8cf9fb2d-3375-48c0-9f15-5ef72158e5a0" />
+
 
 ---
 
